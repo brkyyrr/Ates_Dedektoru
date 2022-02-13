@@ -14,7 +14,11 @@ Orman, ev, iş yeri yangınlarını, sabit kamera ya da drone ile kontrol etmek 
 
 <br>
 
+<h1 dir="auto> </h1>
+
 ### Kütüphaneler
+
+
 <br>
 
 <li>opencv</li>
